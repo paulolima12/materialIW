@@ -1,10 +1,40 @@
 body
 		{
-			background-color: rgb(222, 16, 64);
+			background-color: rgba(214, 184, 191, 0.158);
 		}
 
 		h1
 		{
 			color: rgb(35, 10, 58);
+			text-align: center;
+		}
+
+		header{
+			width: 100%;
+			background-color: blueviolet;
+		}
+
+		.Logo{
+			color: blue;
+			text-align: center;
+			font-size: 1.4em;
+		}
+		nav{
+			color: blue;
+			text-align: center;
+			font-size: 1.4em;
+		}
+		.banner{
+			width: 100%;
+		}
+		.container{
+			background-color: brown;
+			width: 100%;
+			margin: auto;
+		}
+		footer{
+			background-color: black;
+			color: antiquewhite;
+			font-size: 1.3em;
 			text-align: center;
 		}
