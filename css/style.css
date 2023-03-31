@@ -1,40 +1,43 @@
 body
 		{
-			background-color: rgba(214, 184, 191, 0.158);
+			background-color: rgba(69, 60, 62, 0.158);
 		}
 
 		h1
 		{
-			color: rgb(35, 10, 58);
+			color: rgb(198, 16, 16);
 			text-align: center;
 		}
 
 		header{
 			width: 100%;
-			background-color: blueviolet;
+			background-color: rgb(0, 0, 0);
 		}
 
 		.Logo{
-			color: blue;
+			color: rgba(3, 3, 3, 0.886);
 			text-align: center;
 			font-size: 1.4em;
 		}
 		nav{
-			color: blue;
+			color: rgb(65, 65, 71);
 			text-align: center;
 			font-size: 1.4em;
+		}
+		.banner {
+			width: 100%;
 		}
 		.banner{
 			width: 100%;
 		}
 		.container{
-			background-color: brown;
+			background-color: rgb(60, 52, 52);
 			width: 100%;
 			margin: auto;
 		}
 		footer{
 			background-color: black;
-			color: antiquewhite;
+			color: rgb(14, 13, 12);
 			font-size: 1.3em;
 			text-align: center;
 		}
