@@ -1,10 +1,11 @@
 body
 		{
 			color: white;
-			background-image: url(../img/img\ f.jpg);
+			background-image: url(../img/ft2.jpg);
 			background-attachment: fixed;
 			background-repeat: no-repeat;
-			background-position: 25%;
+			background-position: 50%;
+			line-height: 1.5;
 		}
 
 		h1
@@ -47,9 +48,9 @@ body
 			font-size: 1.3em;
 			text-align: center;
 		}
-		.p {
+		p {
 			text-align: center;
-			color: rgba(31, 8, 239, 0.735);
+			color: rgba(239, 8, 58, 0.735);
 			font-size: xx-large
 	
 		}
