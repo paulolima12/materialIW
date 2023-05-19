@@ -1,3 +1,7 @@
+html{
+	scroll-behavior: smooth;
+}
+
 body
 		{
 			color: white;
@@ -72,4 +76,8 @@ body
 	
 		.ista{
 			width: 3%;
+		}
+
+		.img1{
+			float: left;
 		}
