@@ -81,3 +81,13 @@ body
 		.img1{
 			float: left;
 		}
+
+		.linha{
+			display: flex;
+			flex-flow: row wrap;
+			text-align: center;
+			}
+
+			.col-6{
+				width: 50%;
+			}
