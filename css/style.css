@@ -6,7 +6,7 @@ html{
 body
 		{
 			color: white;
-			background-image: url(../img/ft2.jpg);
+			background-image: url(../img/ft2.jpg);width: 100%;
 			background-attachment: fixed;
 			background-repeat: no-repeat;
 			background-position: 50%;
@@ -107,11 +107,13 @@ body
 		}
 
 		
-		.tabela{
+		table, th, td {
+			border: 1px solid white;
+			border-collapse: collapse;
+			background-color: #da1212;
+			padding: 1em;
+			text-align: center;
+		  }
+		  
 			
-				border: 1px solid rgb(243, 17, 17);
-				border-collapse: collapse;
-				background-color: #96D4D4;
-			  
-		}
-	
+		  
