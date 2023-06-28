@@ -115,5 +115,8 @@ body
 			text-align: center;
 		  }
 		  
+		.lista{
+			list-style-image: url('../img/favic.png');
+		}
 			
 		  
