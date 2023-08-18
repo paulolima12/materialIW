@@ -134,7 +134,7 @@ body
   			position: sticky;
   			top: 0;
   			background-color: green;
-  			border: 50px solid #4CAF50;
+  			border: 50px solid #d4cdcd;
 		} 
 		.topleft{
 			position: absolute;
@@ -168,5 +168,16 @@ body
 			text-align: center;
 			font-size: 18px;
 		  }
-		  
+		  .letras {
+			width: 200px;
+			height: 65px;
+			background-color: rgb(255, 0, 0);
+			overflow: visible;
+		  }
+		  .img12 {
+			position: relative;
+			left: 0px;
+			top: 0px;
+			z-index: -1;
+		  }
 		  
