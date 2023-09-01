@@ -282,9 +282,10 @@ body
 			right: 15%;
 			top: 30%;
 			width: 70%;
+		}
+		.itensmenu ul li{
 			display: inline;
-			margin-left: 1.5%;
-
+			margin-left: 2%;
 		}
 
 		  
